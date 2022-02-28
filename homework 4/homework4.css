@@ -1,0 +1,159 @@
+body{
+
+background-color: gray;
+
+
+}
+
+ul{
+
+list-style-type: none;
+background-color: black;
+padding: 0;
+margin: 0;
+overflow: hidden;
+}
+
+li{
+    float: left;
+}
+
+li a{
+padding: 20px;
+    color: white;
+display: block;
+text-decoration: none;
+
+}
+
+li a:hover{
+background-color: rgb(131, 122, 122)
+
+}
+
+.leboxa1{
+    background-color: cornsilk;
+    width: 200px;
+    height: 200px;
+    border-radius: 15px;
+    
+}
+.leboxa2{
+    background-color: burlywood;
+    width: 200px;
+    height: 200px;
+    border-radius: 15px;
+    
+}
+.leboxa3{
+    background-color: darkolivegreen;
+    width: 200px;
+    height: 200px;
+    border-radius: 15px;
+    
+}
+.leboxa4{
+    background-color: goldenrod;
+    width: 200px;
+    height: 200px;
+    border-radius: 15px;
+    
+}
+.main1{
+    display: flex;
+    justify-content: space-between;
+}
+
+.mrwhite{
+margin-top: 150px;
+width: 300px;
+height: 350px;
+border-radius: 20px;
+}
+.main2{
+    display: flex;
+    
+}
+
+.textA{
+margin-top:150px;
+color:orange;
+font-size: 15px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.main3{
+    display: flex;
+    margin-bottom: 30px;
+}
+
+.sisora{
+margin-top: 200px;
+width: 350px;
+height: 200px;
+}
+
+.textB{
+
+color:aquamarine;
+margin-top: 200px;
+margin-left: 70px;
+font-size: 30px;
+
+}
+
+.main4{
+    display: flex;
+
+}
+
+.main5{
+    display: flex;
+
+}
+
+.TextC{
+
+    color:darkmagenta;
+    margin-top: 200px;
+    margin-left: 70px;
+    font-size: 40px;
+}
+
+.knifa{
+margin-top: 40px;
+
+
+}
+    
+.britain{
+
+width: 20%;
+height: 20%;
+margin-left: 700px;
+margin-top: 50px;
+
+}
+
+.TextD{
+
+color:rgb(36, 59, 128);
+font-size: 20px;
+margin-left: 600px;
+margin-top: 70px;
+
+}
+
+.active1{
+    background-color: rgb(65, 62, 62);
+}
+    
+.active2{
+    background-color: rgb(65, 62, 62);
+}
+.active3{
+    background-color: rgb(65, 62, 62);
+}
+.active4{
+    background-color: rgb(65, 62, 62);
+}
