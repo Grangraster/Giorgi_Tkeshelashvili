@@ -1,0 +1,82 @@
+body{
+
+background-color: gray;
+
+}
+
+
+.leboxa{
+background-color: blue;
+height: 200px;
+width: 200px;
+border-radius: 10px;
+
+}
+
+.boxa1{
+
+background-color: red;
+
+
+
+
+}
+
+.boxa2{
+
+    background-color: purple;
+    
+    
+    
+    
+    }
+
+    .boxa3{
+
+        background-color: green ;
+        
+        
+        
+    }
+
+
+
+        
+.main{
+    display: flex;
+    justify-content: space-between;
+}
+
+.imgali{
+
+width: 500px;
+height: 500px;
+
+}
+
+.heylois{
+display: flex;
+margin-top: 100px;
+
+
+}
+
+.text1{
+
+color:aqua;
+margin:50px;
+font-size: 20px;
+}            
+            
+.text2{
+
+    color:rgb(150, 14, 14);
+    margin:50px;
+    font-size: 20px;
+    }          
+
+
+    .main2{
+        display: flex;
+        justify-content: space-between;
+    }
