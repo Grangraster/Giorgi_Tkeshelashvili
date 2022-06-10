@@ -1,0 +1,45 @@
+body{
+    background-color: gray;
+}
+
+.color{
+    background-color: red;
+    height: 80px;
+    width: 80px;
+    border-radius: 20px;
+    font-size: 55px;
+    border: none;
+    cursor: pointer;
+}
+
+.fulldiv{
+    position: relative;
+    display: flex;
+    width: 40%;
+    align-items: center;
+    
+    
+    
+}
+
+.extra{
+    display: flex;
+    justify-content: center;
+    
+}
+
+
+    
+    
+   
+    
+
+   
+
+
+.imagefix{
+    width: 300px;
+    height: 150px;
+    
+    
+}
